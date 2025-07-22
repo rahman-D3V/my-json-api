@@ -1,0 +1,6 @@
+{
+  "movies": [
+    { "title": "Inception", "rating": 9 },
+    { "title": "Interstellar", "rating": 8.5 }
+  ]
+}
