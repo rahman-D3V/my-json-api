@@ -1,6 +1,97 @@
 {
-  "movies": [
-    { "title": "Inception", "rating": 9 },
-    { "title": "Interstellar", "rating": 8.5 }
+  "page": 1,
+  "per_page": 10,
+  "total": 100,
+  "jobs": [
+    {
+      "id": 101,
+      "title": "Sales Executive",
+      "company": "KRISHNA PLY HOUSE",
+      "location": "Darbhanga",
+      "type": "Full-time",
+      "description": "Responsible for on-site sales in Darbhanga region.",
+      "posted_date": "2025-07-20"
+    },
+    {
+      "id": 102,
+      "title": "Office Administrator",
+      "company": "GURUKUL PUBLIC SCHOOL",
+      "location": "Darbhanga",
+      "type": "Full-time",
+      "description": "Manage daily office operations.",
+      "posted_date": "2025-07-18"
+    },
+    {
+      "id": 103,
+      "title": "Data Entry Operator",
+      "company": "Swami Vivekananda Cancer Hospital",
+      "location": "Darbhanga",
+      "type": "Full-time",
+      "description": "Enter and manage healthcare data.",
+      "posted_date": "2025-07-17"
+    },
+    {
+      "id": 104,
+      "title": "Medical Representative",
+      "company": "CHEMOSYN LTD",
+      "location": "Phagwara",
+      "type": "Full-time",
+      "description": "Meet doctors, generate prescriptions.",
+      "posted_date": "2025-07-16"
+    },
+    {
+      "id": 105,
+      "title": "Billing Executive",
+      "company": "Krishna Ply House",
+      "location": "Gaya",
+      "type": "Full-time",
+      "description": "Manage client billing and invoicing.",
+      "posted_date": "2025-07-15"
+    },
+    {
+      "id": 106,
+      "title": "Personal Assistant",
+      "company": "Maithil Manch",
+      "location": "Gaya",
+      "type": "Full-time",
+      "description": "Assist management with scheduling tasks.",
+      "posted_date": "2025-07-14"
+    },
+    {
+      "id": 107,
+      "title": "Counter Assistant",
+      "company": "TRIMURTI ENTERPRISES",
+      "location": "Aligarh",
+      "type": "Full-time",
+      "description": "Customer service and sales at the counter.",
+      "posted_date": "2025-07-13"
+    },
+    {
+      "id": 108,
+      "title": "Loan Officer",
+      "company": "MAGMA LOAN FINANCE",
+      "location": "Aligarh",
+      "type": "Full-time",
+      "description": "Manage customer loan applications.",
+      "posted_date": "2025-07-12"
+    },
+    {
+      "id": 109,
+      "title": "English Teacher",
+      "company": "DARJEELING PUBLIC SCHOOL",
+      "location": "Phagwara",
+      "type": "Full-time",
+      "description": "Teach English to students.",
+      "posted_date": "2025-07-11"
+    },
+    {
+      "id": 110,
+      "title": "Front Desk Receptionist",
+      "company": "Parnakuti The Mithila",
+      "location": "Darbhanga",
+      "type": "Full-time",
+      "description": "Greet guests and manage calls.",
+      "posted_date": "2025-07-10"
+    }
   ]
 }
