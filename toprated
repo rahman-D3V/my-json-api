@@ -1,0 +1,139 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Dark Knight",
+      "release_date": "2008-07-18",
+      "poster": "https://m.media-amazon.com/images/I/81IfoBox2TL.jpg",
+      "rating": 9.0,
+      "genre": "Action",
+      "overview": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos."
+    },
+    {
+      "id": 2,
+      "title": "Inception",
+      "release_date": "2010-07-16",
+      "poster": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2919271/5944675/MOVEB46211__19379.1679590452.jpg?c=2",
+      "rating": 8.8,
+      "genre": "Sci-Fi",
+      "overview": "A thief who enters dreams to steal secrets is given the inverse task of planting an idea."
+    },
+    {
+      "id": 3,
+      "title": "The Lord of the Rings: The Return of the King",
+      "release_date": "2003-12-17",
+      "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28828_p_v8_ao.jpg",
+      "rating": 8.9,
+      "genre": "Adventure",
+      "overview": "Gandalf and Aragorn lead the World of Men against Sauron's army."
+    },
+    {
+      "id": 4,
+      "title": "Interstellar",
+      "release_date": "2014-11-05",
+      "poster": "https://m.media-amazon.com/images/I/91obuWzA3XL.jpg",
+      "rating": 8.6,
+      "genre": "Sci-Fi",
+      "overview": "A team of explorers travel through a wormhole in space to ensure humanity's survival."
+    },
+    {
+      "id": 5,
+      "title": "Whiplash",
+      "release_date": "2014-10-10",
+      "poster": "https://c8.alamy.com/comp/R2HR0H/whiplash-year-2014-usa-director-damien-chazelle-miles-teller-jk-simmons-movie-poster-fr-R2HR0H.jpg",
+      "rating": 8.5,
+      "genre": "Drama",
+      "overview": "A promising young drummer is pushed beyond his limits by an abusive instructor."
+    },
+    {
+      "id": 6,
+      "title": "Mad Max: Fury Road",
+      "release_date": "2015-05-15",
+      "poster": "https://www.tallengestore.com/cdn/shop/products/25_c3ea7acd-b68c-4a22-8646-f9ff850d7d85.jpg?v=1568967564",
+      "rating": 8.1,
+      "genre": "Action",
+      "overview": "In a post-apocalyptic wasteland, Max teams up with Furiosa to escape a tyrant."
+    },
+    {
+      "id": 7,
+      "title": "Dune: Part Two",
+      "release_date": "2024-03-01",
+      "poster": "https://image.tmdb.org/t/p/original/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "rating": 8.4,
+      "genre": "Sci-Fi",
+      "overview": "Paul Atreides unites with the Fremen to avenge his family and save Arrakis."
+    },
+    {
+      "id": 8,
+      "title": "Parasite",
+      "release_date": "2019-10-11",
+      "poster": "https://image.tmdb.org/t/p/original/dwkDeJXXaHVuIhcyCxUdb3YctxY.jpg",
+      "rating": 8.6,
+      "genre": "Thriller",
+      "overview": "A poor family schemes to become employed by a wealthy family and infiltrate their lives."
+    },
+    {
+      "id": 9,
+      "title": "La La Land",
+      "release_date": "2016-12-09",
+      "poster": "https://m.media-amazon.com/images/I/81j4bDPgXQL._UF894,1000_QL80_.jpg",
+      "rating": 8.0,
+      "genre": "Romance",
+      "overview": "A jazz musician and an aspiring actress fall in love while pursuing their dreams."
+    },
+    {
+      "id": 10,
+      "title": "Joker",
+      "release_date": "2019-10-04",
+      "poster": "https://www.tallengestore.com/cdn/shop/products/Joker_-_Joaquin_Phoenix_-_Hollywood_Action_Movie_Poster_2_f3dd3a67-c6c8-4631-b4f4-fdd9def1753e.jpg?v=1573629361",
+      "rating": 8.4,
+      "genre": "Crime",
+      "overview": "A mentally troubled comedian embarks on a downward spiral into madness."
+    },
+    {
+      "id": 11,
+      "title": "The Batman",
+      "release_date": "2022-03-04",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_.jpg",
+      "rating": 7.9,
+      "genre": "Crime",
+      "overview": "Batman uncovers corruption in Gotham while pursuing the Riddler."
+    },
+    {
+      "id": 12,
+      "title": "Oppenheimer",
+      "release_date": "2023-07-21",
+      "poster": "https://i.redd.it/4nj1l524d1ya1.jpg",
+      "rating": 8.5,
+      "genre": "Drama",
+      "overview": "The story of J. Robert Oppenheimer, father of the atomic bomb."
+    },
+    {
+      "id": 13,
+      "title": "Spider-Man: Across the Spider-Verse",
+      "release_date": "2023-06-02",
+      "poster": "https://i.pinimg.com/736x/45/20/0d/45200d9052949ca5550704f99e23c3fd.jpg",
+      "rating": 8.9,
+      "genre": "Animation",
+      "overview": "Miles Morales goes on a multiversal journey with a new team of Spider-People."
+    },
+    {
+      "id": 14,
+      "title": "Everything Everywhere All at Once",
+      "release_date": "2022-03-25",
+      "poster": "https://static.wikia.nocookie.net/greatestmovies/images/3/30/Cu_c_chi_n_a_v_tr_-_payoff_poster_-_k_ch_th_c_fb_-_dkkc_24062022_1_.jpg/revision/latest/scale-to-width-down/985?cb=20230826013231",
+      "rating": 8.1,
+      "genre": "Sci-Fi",
+      "overview": "A Chinese-American woman is swept into a mind-bending multiverse adventure."
+    },
+    {
+      "id": 15,
+      "title": "Soul",
+      "release_date": "2020-12-25",
+      "poster": "https://image.tmdb.org/t/p/original/c3FGCAmZBcwkBIJRJUuFbNnBOZz.jpg",
+      "rating": 8.1,
+      "genre": "Animation",
+      "overview": "A jazz musician gets stuck in the afterlife and discovers what it truly means to have soul."
+    }
+  ]
+}
