@@ -1,0 +1,139 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Hereditary",
+      "release_date": "2018-06-08",
+      "poster": "https://i.ebayimg.com/images/g/LzcAAOSw~JhkQJH-/s-l1200.jpg",
+      "rating": 7.9,
+      "genre": "Horror",
+      "overview": "A family is haunted after the death of their secretive grandmother."
+    },
+    {
+      "id": 2,
+      "title": "The Conjuring",
+      "release_date": "2013-07-19",
+      "poster": "https://m.media-amazon.com/images/I/81dzWlccrGS.jpg",
+      "rating": 7.5,
+      "genre": "Horror",
+      "overview": "Paranormal investigators help a family terrorized by a dark presence."
+    },
+    {
+      "id": 3,
+      "title": "It",
+      "release_date": "2017-09-08",
+      "poster": "https://images-cdn.ubuy.co.in/634eec895d77b6101f502273-poster-stop-online-it-chapter-two.jpg",
+      "rating": 7.3,
+      "genre": "Horror",
+      "overview": "A group of kids face their deepest fears when confronting Pennywise the clown."
+    },
+    {
+      "id": 4,
+      "title": "The Exorcist: Believer",
+      "release_date": "2023-10-06",
+      "poster": "https://i.ebayimg.com/00/s/MTYwMFgxMDM1/z/sSwAAOSwYaxmbWE6/$_57.JPG?set_id=880000500F",
+      "rating": 6.3,
+      "genre": "Horror",
+      "overview": "Two girls are possessed, forcing a father to seek out the original survivor."
+    },
+    {
+      "id": 5,
+      "title": "Midsommar",
+      "release_date": "2019-07-03",
+      "poster": "https://m.media-amazon.com/images/I/81A5xeRT2jL.jpg",
+      "rating": 7.1,
+      "genre": "Horror",
+      "overview": "A grieving woman joins friends on a trip to a rural Swedish festival with terrifying results."
+    },
+    {
+      "id": 6,
+      "title": "Smile",
+      "release_date": "2022-09-30",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjFhMzBlNzktMjE2Ni00YTMyLWI2YWUtYmM1N2QxMDQwZmZhXkEyXkFqcGc@._V1_.jpg",
+      "rating": 6.8,
+      "genre": "Horror",
+      "overview": "A therapist is haunted by a mysterious entity that makes its victims smile before death."
+    },
+    {
+      "id": 7,
+      "title": "Barbarian",
+      "release_date": "2022-09-09",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/barbarian_1sht_l_cf4d0b6b.jpeg?region=0,0,1993,2953",
+      "rating": 7.0,
+      "genre": "Horror",
+      "overview": "A woman discovers a terrifying secret in a rental home basement."
+    },
+    {
+      "id": 8,
+      "title": "A Quiet Place",
+      "release_date": "2018-04-06",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDdjZTljZWMtMDIwNi00MTA5LTkxZmItNmY0NDA3ZDM0N2M2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "rating": 7.6,
+      "genre": "Horror",
+      "overview": "A family must live in silence while hiding from sound-sensitive creatures."
+    },
+    {
+      "id": 9,
+      "title": "The Nun II",
+      "release_date": "2023-09-08",
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2YxYmEyYmUtOWRkMi00NDU3LTk0NGMtOTA5MzliMDg3NDQ0XkEyXkFqcGc@._V1_.jpg",
+      "rating": 6.0,
+      "genre": "Horror",
+      "overview": "Sister Irene once again comes face-to-face with the demonic force Valak."
+    },
+    {
+      "id": 10,
+      "title": "Talk to Me",
+      "release_date": "2023-07-28",
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2I2NzJmY2YtYTM3Ni00ZGJhLThkZTItODFhMzhlZjZkMDQ5XkEyXkFqcGc@._V1_.jpg",
+      "rating": 7.2,
+      "genre": "Horror",
+      "overview": "Teens discover a way to communicate with spirits using an embalmed hand."
+    },
+    {
+      "id": 11,
+      "title": "No One Will Save You",
+      "release_date": "2023-09-22",
+      "poster": "https://posterspy.com/wp-content/uploads/2023/09/No-One-Will-Save-You-Poster-1.jpg",
+      "rating": 6.7,
+      "genre": "Horror",
+      "overview": "A young woman finds herself alone during an alien invasion."
+    },
+    {
+      "id": 12,
+      "title": "Run Rabbit Run",
+      "release_date": "2023-06-28",
+      "poster": "https://image.tmdb.org/t/p/original/n34lYVoFy1C2lc02i7eaZFWznuN.jpg",
+      "rating": 5.9,
+      "genre": "Horror",
+      "overview": "A fertility doctor must face a ghost from her past."
+    },
+    {
+      "id": 13,
+      "title": "Scream VI",
+      "release_date": "2023-03-10",
+      "poster": "https://ih1.redbubble.net/image.4995184063.6578/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+      "rating": 6.8,
+      "genre": "Horror",
+      "overview": "Survivors of Ghostface killings relocate to New York City but danger follows."
+    },
+    {
+      "id": 14,
+      "title": "The Boogeyman",
+      "release_date": "2023-06-02",
+      "poster": "https://posterspy.com/wp-content/uploads/2023/01/F595509E-AF5E-4B29-AC95-6778656E73FF.jpeg",
+      "rating": 6.1,
+      "genre": "Horror",
+      "overview": "Two sisters are haunted by a sinister presence after their mother’s death."
+    },
+    {
+      "id": 15,
+      "title": "Evil Dead Rise",
+      "release_date": "2023-04-21",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjM1ZmViMmYtOGYzZC00YzhmLWE0MTMtMzNjYzcyNjEwYWRkXkEyXkFqcGc@._V1_.jpg",
+      "rating": 7.0,
+      "genre": "Horror",
+      "overview": "A twisted tale of two estranged sisters fighting against demonic forces in a city apartment."
+    }
+  ]
+}
