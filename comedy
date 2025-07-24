@@ -1,0 +1,139 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Hangover Part II",
+      "release_date": "2011-05-26",
+      "poster": "https://c8.alamy.com/comp/2C5R342/the-hangover-part-ii-1990-directed-by-todd-phillips-and-starring-bradley-cooper-zach-galifianakis-ed-helms-and-ken-jeong-the-wolfpack-is-back-and-this-time-their-destination-is-thailand-for-stus-wedding-2C5R342.jpg",
+      "rating": 6.5,
+      "genre": "Comedy",
+      "overview": "Phil, Stu, Alan, and Doug travel to Thailand for Stu's wedding and get into trouble again."
+    },
+    {
+      "id": 2,
+      "title": "Fukrey",
+      "release_date": "2013-06-14",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDk1OGVjMWEtN2UwNy00MDlhLWFhMWEtMTAzYTlkZGZkYTcwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "rating": 7.2,
+      "genre": "Comedy",
+      "overview": "Four college slackers hatch a plan to make easy money, leading to hilarious chaos."
+    },
+    {
+      "id": 3,
+      "title": "Bridesmaids",
+      "release_date": "2011-05-13",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjAyOTMyMzUxNl5BMl5BanBnXkFtZTcwODI4MzE0NA@@._V1_FMjpg_UX1000_.jpg",
+      "rating": 6.8,
+      "genre": "Comedy",
+      "overview": "A maid of honor faces off with a bridesmaid over who is the bride's best friend."
+    },
+    {
+      "id": 4,
+      "title": "Zindagi Na Milegi Dobara",
+      "release_date": "2011-07-15",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGIzYzg5NzItNDRkYS00NmIzLTk3NzQtZWYwY2VlZDhiYWQ4XkEyXkFqcGc@._V1_.jpg",
+      "rating": 8.1,
+      "genre": "Comedy, Adventure",
+      "overview": "Three friends rediscover life and friendship on a road trip across Spain."
+    },
+    {
+      "id": 5,
+      "title": "Ted",
+      "release_date": "2012-06-29",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_.jpg",
+      "rating": 6.9,
+      "genre": "Comedy",
+      "overview": "A man’s childhood teddy bear comes to life and causes chaos in his adult life."
+    },
+    {
+      "id": 6,
+      "title": "Barfi!",
+      "release_date": "2012-09-14",
+      "poster": "https://assets.gadgets360cdn.com/pricee/assets/product/202306/Barfi-poster_1686301568.jpg",
+      "rating": 8.2,
+      "genre": "Comedy, Romance",
+      "overview": "A charming mute man and an autistic girl share an unusual love story."
+    },
+    {
+      "id": 7,
+      "title": "22 Jump Street",
+      "release_date": "2014-06-13",
+      "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8869472_p_v8_ab.jpg",
+      "rating": 7.0,
+      "genre": "Comedy",
+      "overview": "Schmidt and Jenko go undercover at a college to bust a new drug ring."
+    },
+    {
+      "id": 8,
+      "title": "Stree",
+      "release_date": "2018-08-31",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTA1NmUxYzItZmVmNy00YmQxLTk4Y2UtZjVkMWUwMWQ5N2IxXkEyXkFqcGc@._V1_.jpg",
+      "rating": 7.6,
+      "genre": "Horror Comedy",
+      "overview": "A small town is haunted by the spirit of a woman who abducts men at night."
+    },
+    {
+      "id": 9,
+      "title": "Crazy Rich Asians",
+      "release_date": "2018-08-15",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/f90318f0f669f252a540fdd4a202be2345ae0d43c46663c527d6bd1c12bd5cd2.jpg",
+      "rating": 7.0,
+      "genre": "Romantic Comedy",
+      "overview": "A woman discovers her boyfriend is the heir to a massive fortune in Singapore."
+    },
+    {
+      "id": 10,
+      "title": "Badhaai Ho",
+      "release_date": "2018-10-18",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYwYjZkMDYtMjlmMC00MDIxLTk0MmYtYTMyNTVjZTU4ZDM0XkEyXkFqcGc@._V1_.jpg",
+      "rating": 7.9,
+      "genre": "Comedy, Family",
+      "overview": "A middle-aged couple’s unexpected pregnancy shocks their grown-up son."
+    },
+    {
+      "id": 11,
+      "title": "The Nice Guys",
+      "release_date": "2016-05-20",
+      "poster": "https://sm.ign.com/ign_in/cover/t/the-nice-g/the-nice-guys_7vtx.jpg",
+      "rating": 7.4,
+      "genre": "Comedy, Action",
+      "overview": "Two mismatched detectives investigate a missing girl in 1970s Los Angeles."
+    },
+    {
+      "id": 12,
+      "title": "Luka Chuppi",
+      "release_date": "2019-03-01",
+      "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16629811_p_v8_aa.jpg",
+      "rating": 6.4,
+      "genre": "Romantic Comedy",
+      "overview": "A couple tries live-in relationship but struggles with traditional family expectations."
+    },
+    {
+      "id": 13,
+      "title": "Pitch Perfect",
+      "release_date": "2012-10-05",
+      "poster": "https://static.wikia.nocookie.net/pitch-perfect/images/2/29/Pitch_Perfect.jpg/revision/latest?cb=20140409081643",
+      "rating": 7.1,
+      "genre": "Comedy, Musical",
+      "overview": "Beca joins an all-girls singing group and shakes up the a cappella competition world."
+    },
+    {
+      "id": 14,
+      "title": "Jolly LLB 2",
+      "release_date": "2017-02-10",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjcwODQ4ZDgtODQyZS00MmE1LWE4ZjQtZjQ5MWQzYTMyNDIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "rating": 7.2,
+      "genre": "Comedy, Courtroom Drama",
+      "overview": "A small-time lawyer fights a big case in a hilarious courtroom battle."
+    },
+    {
+      "id": 15,
+      "title": "Game Night",
+      "release_date": "2018-02-23",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/7e197485d80b40ecb08047b3e7dfe836a68f425bcaccd97edb125b02a47ebaac.jpg",
+      "rating": 6.9,
+      "genre": "Comedy, Mystery",
+      "overview": "A group of friends' game night turns into a real-life mystery when one of them is kidnapped."
+    }
+  ]
+}
